@@ -8,6 +8,8 @@ frontend/yarn-error.log*
 
 # Ignore production build and other temp files
 frontend/build/
+
+frontend/package-lock.json
 frontend/.pnp/
 frontend/.pnp.js
 
